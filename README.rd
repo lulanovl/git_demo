@@ -1,2 +1,2 @@
 #My first exp
-##I am exploring GIT!
+I am exploring GIT!
